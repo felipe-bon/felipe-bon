@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá eu sou o Felipe 🙋‍♂️
+</br>
 
-<!--
-**felipe-bon/felipe-bon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![felipe-bon's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-bon&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+#### Mais sobre mim 👇
+
+[![linkin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-bonetti-1a0200209/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bonetti_felipe/)
