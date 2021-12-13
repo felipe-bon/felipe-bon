@@ -1,11 +1,11 @@
-### Olá eu sou o Felipe 🙋‍♂️
+### Olá eu sou o Felipe 🙋
 </br>
-
 
 ![felipe-bon's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-bon&show_icons=true&theme=tokyonight)
 
 
-#### linguagens que costumo usar 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="35"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="35"><img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="35">
 
 
 #### Mais sobre mim 👇
