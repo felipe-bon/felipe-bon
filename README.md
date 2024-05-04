@@ -31,7 +31,7 @@ Abra o link de cada projeto para ter uma melhor compreensão de cada um.
   Uma ferramenta para gerenciar projetos de software de forma compartilhada, utilizando metodologias ágeis como Scrum e Kanban.
 - https://github.com/felipe-bon/Store-Interface-API:
 
-  Um app nativo IOs de uma loja online que consulta uma API no backend para pegar as informações do banco de dados e mostrar de forma prática para o usuário.
+  Um app nativo IOS de uma loja online que consulta uma API no backend para pegar as informações do banco de dados e mostrar de forma prática para o usuário.
 
 ## O Que eu Procuro
 - Busco uma oportunidade de emprego ou estágio onde eu possa colocar em prática meus conhecimentos e habilidades colaborando com um projeto e também continuar a me desenvolver com os desafios enfrentados.
