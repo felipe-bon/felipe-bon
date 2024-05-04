@@ -1,6 +1,6 @@
 # Felipe Bonetti
 
-Sou Um entusiasta da tecnologia apaixonado por aprender e criar coisas novas. Estou constantemente buscando expandir meu conhecimento, desenvolver novos projetos e contribuir com projetos existentes.
+Sou um entusiasta da tecnologia apaixonado por aprender e criar coisas novas. Estou constantemente buscando expandir meu conhecimento, desenvolver novos projetos e contribuir com projetos existentes.
 
 ## O Que Estou Estudando Atualmente
 Atualmente, estou focado em aprender e aprimorar minhas habilidades em:
