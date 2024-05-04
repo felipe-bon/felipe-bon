@@ -1,6 +1,6 @@
 # Felipe Bonetti
 
-Sou um entusiasta da tecnologia apaixonado por aprender e criar coisas novas. Estou constantemente buscando expandir meu conhecimento, desenvolver novos projetos e contribuir com projetos existentes. Estou Atualmente no sexto período de cinência da computação na Universidade Federal de Uberlândia - UFU.
+Sou um entusiasta da tecnologia apaixonado por aprender e criar coisas novas. Estou constantemente buscando expandir meu conhecimento, desenvolver novos projetos e contribuir com projetos existentes. Estou Atualmente no sexto período de ciência da computação na Universidade Federal de Uberlândia - UFU.
 
 ## O Que Estou Estudando Atualmente
 Atualmente, estou focado em aprender e aprimorar minhas habilidades em:
